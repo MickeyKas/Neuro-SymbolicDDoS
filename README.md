@@ -1,6 +1,9 @@
 ├── NeuroSymbolicIDS.ipynb # Main Jupyter notebook with full pipeline, training, evaluation, and figures
+
 ├── README.md # This file
+
 ├── requirements.txt # Python dependencies
+
 └── outputs/ # Folder where results (tables, figures, models) are saved (created automatically)
 
 text
